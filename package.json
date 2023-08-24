@@ -1,0 +1,16 @@
+{
+  "name": "polling-system-api",
+  "version": "1.0.0",
+  "description": "A Polling system only API based",
+  "main": "Index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yashwant Kumar Sonkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4"
+  }
+}
